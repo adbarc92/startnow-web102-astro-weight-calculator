@@ -1,0 +1,1 @@
+To use the Astro Weight calculator, open the index.html file with Chrome or a similar browser. Enter your weight, then select a planet from the drop-down menu. Click calculate. Then you will see what your weight on the selected planet would be.

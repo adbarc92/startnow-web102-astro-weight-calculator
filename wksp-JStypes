@@ -1,0 +1,23 @@
+Workshop: JavaScript Types
+
+Types: Undefined, Number, String, Boolean, Symbol, Null, Object
+  Undefined: empty,
+  Numbers: Infinity, -Infinity, NaN
+  String: '',"",``,
+  Boolean: True, False
+  Symbol:
+  Null: nothing
+  Object:
+Truthy/Falsy - certain values are coerced to truth or false;
+Falsy
+  false
+  0
+  ''
+  Null
+  Undefined
+  NaN
+
+Function Objects vs. Invocation
+  // var name = function; // Name is equal to the code
+  // var name = function(); // Name is equal to the return value
+  // Method: properties of an object which are functions
